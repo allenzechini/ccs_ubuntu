@@ -1,3 +1,10 @@
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
+# Generated automatically with Textpattern template
 .htaccess
 css.php
 rpc/
